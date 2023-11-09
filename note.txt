@@ -1,0 +1,7 @@
+https://youtu.be/usKnUuGQHLs?si=Z2aS5aX7sHnh0efp
+
+ pip install python-dotenv
+ pip install requests
+
+
+https://api.openweathermap.org/data/2.5/weather?q=Guayaquil&appid=6440f9bd7422123f37a1e881b2ad6fa5&lang=es&units=metric
